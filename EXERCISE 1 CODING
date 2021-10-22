@@ -1,0 +1,22 @@
+package exercise1;
+
+public class OneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("My Routine");
+		System.out.println("Monday");
+		System.out.println("7.00am: Wake Up");
+		System.out.println("8.00am: Malaysia Nationhood Studies Class");
+		System.out.println("11.30am: Lunch");
+		System.out.println("2.30pm: Philosophy,History and Policy in Education Class");
+		System.out.println("4.00pm: Psychology of Learning Class");
+		System.out.println("5.35pm: Jogging");
+		System.out.println("6.00pm: Dinner");
+		System.out.println("7.00pm: Programming Practice");
+		System.out.println("11.00pm: Listening to a Music");
+		System.out.println("12.00pm: Sleep");
+		
+	}
+
+}
